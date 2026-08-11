@@ -1,0 +1,12 @@
+.card{
+  background-color: aquamarine;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.nav{
+  background-color: #DEC9F3;
+  padding: 20px;
+  margin: 5px;
+}
